@@ -23,7 +23,7 @@ To get started with the tutorial code, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/lahiru1115/UCSC-PWAD-Tute-16-17.git
+   git clone https://github.com/lahiru1115/IS1109-Tute-16-17.git
    ```
 
 2. Make sure you have a PHP development environment set up on your machine.
