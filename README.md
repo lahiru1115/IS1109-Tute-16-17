@@ -30,7 +30,7 @@ To get started with the tutorial code, follow these steps:
 
 3. Set up a MySQL database and configure the database connection parameters in the CodeIgniter configuration file.
 
-4. Import the provided SQL dump file (`database.sql`) into your MySQL database.
+4. Import the provided SQL dump file (`ucsc_pwad_tute16_17.sql`) into your MySQL database.
 
 5. Configure the web server environment (e.g., Apache) to point to the cloned project directory.
 
@@ -62,7 +62,3 @@ For any inquiries or support regarding this tutorial, please reach out to the pr
 - Email: [lahiruperera@example.com](mailto:lahiruperera@example.com)
 
 Feel free to report any issues or suggest enhancements via the [issue tracker](https://github.com/lahiru1115/UCSC-PWAD-Tute-16-17/issues).
-
-## Acknowledgements
-
-This tutorial extends its gratitude to the contributors and resources that have helped in its development.
