@@ -36,29 +36,6 @@ To get started with the tutorial code, follow these steps:
 
 6. Access the application through your web browser using the configured server URL.
 
-## Contributing
-
-Contributions to this tutorial code are welcome! If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-
-2. Create a new branch for your changes.
-
-3. Commit your changes with descriptive commit messages.
-
-4. Push your branch to your forked repository.
-
-5. Submit a pull request to the main repository, explaining the changes you've made.
-
 ## License
 
 This tutorial code is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or support regarding this tutorial, please reach out to the project maintainer:
-
-- Name: [Lahiru Dissanayake](https://github.com/lahiru1115)
-- Email: [lahirudissanayake15@gmail.com](mailto:lahirudissanayake15@gmail.com)
-
-Feel free to report any issues or suggest enhancements via the [issue tracker](https://github.com/lahiru1115/IS1109-Tute-16-17/issues).
