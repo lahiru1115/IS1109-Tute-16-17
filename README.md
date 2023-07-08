@@ -58,7 +58,7 @@ This tutorial code is licensed under the [MIT License](LICENSE).
 
 For any inquiries or support regarding this tutorial, please reach out to the project maintainer:
 
-- Name: [Lahiru Perera](https://github.com/lahiru1115)
-- Email: [lahiruperera@example.com](mailto:lahiruperera@example.com)
+- Name: [Lahiru Dissanayake](https://github.com/lahiru1115)
+- Email: [lahirudissanayake15@gmail.com](mailto:lahirudissanayake15@gmail.com)
 
-Feel free to report any issues or suggest enhancements via the [issue tracker](https://github.com/lahiru1115/UCSC-PWAD-Tute-16-17/issues).
+Feel free to report any issues or suggest enhancements via the [issue tracker](https://github.com/lahiru1115/IS1109-Tute-16-17/issues).
