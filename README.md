@@ -36,6 +36,11 @@ To get started with the tutorial code, follow these steps:
 
 6. Access the application through your web browser using the configured server URL.
 
+## Screenshots
+
+![Screenshot 1](screenshots/Screenshot-1.png)
+![Screenshot 2](screenshots/Screenshot-2.png)
+
 ## License
 
 This tutorial code is licensed under the [MIT License](LICENSE).
