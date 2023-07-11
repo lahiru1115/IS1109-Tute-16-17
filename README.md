@@ -38,9 +38,6 @@ To get started with the tutorial code, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/Screenshot-1.png)
-![Screenshot 2](screenshots/Screenshot-2.png)
-
 ## License
 
 This tutorial code is licensed under the [MIT License](LICENSE).
